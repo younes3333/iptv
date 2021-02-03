@@ -1,31 +1,156 @@
-#EXTM3U
-#EXTINF:0,BEIN SPORTS 1 HD
-http://sarhantv.xyz:25461/wwee/wwee/1
-#EXTINF:0,BEIN SPORTS 2 HD
-http://sarhantv.xyz:25461/wwee/wwee/2
-#EXTINF:0,BEIN SPORTS 3 HD
-http://sarhantv.xyz:25461/wwee/wwee/3
-#EXTINF:0,BEIN SPORTS 4 HD
-http://sarhantv.xyz:25461/wwee/wwee/4
-#EXTINF:0,BEIN SPORTS 5 HD
-http://sarhantv.xyz:25461/wwee/wwee/5
-#EXTINF:0,BEIN SPORTS 6 HD
-http://sarhantv.xyz:25461/wwee/wwee/6
-#EXTINF:0,BEIN SPORTS 7 HD
-http://sarhantv.xyz:25461/wwee/wwee/7
-#EXTINF:0,BEIN SPORTS 8 HD
-http://sarhantv.xyz:25461/wwee/wwee/8
-#EXTINF:0,BEIN SPORTS 9 HD
-http://sarhantv.xyz:25461/wwee/wwee/9
-#EXTINF:0,BEIN SPORTS 10 HD
-http://sarhantv.xyz:25461/wwee/wwee/10
-#EXTINF:0,BEIN SPORTS 11 HD
-http://sarhantv.xyz:25461/wwee/wwee/11
-#EXTINF:0,BEIN SPORTS 12 HD
-http://sarhantv.xyz:25461/wwee/wwee/12
-#EXTINF:0,beIN Sports 1 Fr
-http://sarhantv.xyz:25461/wwee/wwee/31
-#EXTINF:0,beIN Sport 2 FR
-http://sarhantv.xyz:25461/wwee/wwee/32
-#EXTINF:0,beIN Sport 3 FR
-http://sarhantv.xyz:25461/wwee/wwee/33
+EXTINF:-1,US-S | BEIN SPORTS HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85789
+#EXTINF:-1,LAT | Univision Canada
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85660
+#EXTINF:-1,CA | SUPER CHANNEL 1
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85524
+#EXTINF:-1,US | EWTN
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85523
+#EXTINF:-1,CBN (US)
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85511
+#EXTINF:-1,RELIG: ENLACE TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85508
+#EXTINF:-1,La voz de Maria
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85507
+#EXTINF:-1,CBN EN ESPAÑOL 
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85505
+#EXTINF:-1,CDM
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85504
+#EXTINF:-1,Candelita TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85503
+#EXTINF:-1,Alfa y Omega
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85502
+#EXTINF:-1,Aliento Vision
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85501
+#EXTINF:-1,CA | MEDIASET ITALIA
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85499
+#EXTINF:-1,US | CW East Philadelphia UHD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85498
+#EXTINF:-1,US | CW18 (WVTV) Milwaukee
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85496
+#EXTINF:-1,US | CW21 (WTTO) Birmingham
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85495
+#EXTINF:-1,US | CW22 (WLFL) Raleigh
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85494
+#EXTINF:-1,US | CW23 (WUCW) Saint Paul
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85493
+#EXTINF:-1,US | CW33 (KVCW) Las Vegas
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85492
+#EXTINF:-1,US | CW34 (KOCB) Oklahoma City
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85491
+#EXTINF:-1,US | CW35 (KMYS) San Antonio
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85490
+#EXTINF:-1,US | CW38 (WSWB) Wilkes-Barre
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85489
+#EXTINF:-1,US | CW44 (WTOG) St. Petersburg
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85488
+#EXTINF:-1,US | CW53 (WWHO) Columbus
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85487
+#EXTINF:-1,US | CW57 (WPSG) Philadelphia
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85486
+#EXTINF:-1,US | CW58 (WNAB) Nashville
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85485
+#EXTINF:-1,US | CW69 (WUPA) Atlanta
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85484
+#EXTINF:-1,Borat Subsequent Moviefilm  - 2020
+http://p4.giffy.be:8080/movie/xueMAyY4/ZSTqFv5aM4/85448.mkv
+#EXTINF:-1,CA | SMITHSONIAN
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85445
+#EXTINF:-1,CA-S | FIGHT NETWORK
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85372
+#EXTINF:-1,CA-F | CANAL VIE
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85371
+#EXTINF:-1,CA | GLOBAL EDMONTON (OP2)
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85369
+#EXTINF:-1,CA-S | BEIN SPORTS HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85367
+#EXTINF:-1,CA | CBC EDMONTON
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85346
+#EXTINF:-1,CA-S | SPORTSNET ONTARIO (OP2)
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85345
+#EXTINF:-1,CA-S | SPORTSNET ONE (OP2)
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/85343
+#EXTINF:-1,UK-S | SKY SPORT PREMIER LEAGUE FHD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/84752
+#EXTINF:-1,CA | DOCUMENTARY CH
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/84690
+#EXTINF:-1,US-S | PAC-12 WASHINGTON
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/82915
+#EXTINF:-1,US-S | PAC-12 OREGON
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/82914
+#EXTINF:-1,US-S | PAC-12 NETWORK
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/82913
+#EXTINF:-1,US-S | PAC-12 MOUNTAIN
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/82912
+#EXTINF:-1,US-S | PAC-12 LOS ANGELES
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/82911
+#EXTINF:-1,US-S | PAC-12 BAY AREA
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/82910
+#EXTINF:-1,US-S | PAC-12 ARIZONA
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/82909
+#EXTINF:-1,VN | VBS
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77147
+#EXTINF:-1,BD | ZEE BDHD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77127
+#EXTINF:-1,BD | ZEE BDCINEMA
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77126
+#EXTINF:-1,BD | SONY AATH 2nd
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77125
+#EXTINF:-1,BD | SONY AATH
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77124
+#EXTINF:-1,BD | SOMOY NEWS TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77123
+#EXTINF:-1,BD | SANGEET BANGLA
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77122
+#EXTINF:-1,BD | SADHNA
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77121
+#EXTINF:-1,BD | SA TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77120
+#EXTINF:-1,BD | RUPOSHI BANGLA
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77119
+#EXTINF:-1,BD | RTV 3rd
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77118
+#EXTINF:-1,BD | RTV 2nd
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77117
+#EXTINF:-1,BD | RTV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77116
+#EXTINF:-1,BD | R PLUS NEWS
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77115
+#EXTINF:-1,BD | NTV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77114
+#EXTINF:-1,BD | NEWS TIME TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77113
+#EXTINF:-1,BD | NEWS 24
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77112
+#EXTINF:-1,BD | NEWS 24
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77111
+#EXTINF:-1,BD | NAGORIK TV HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77110
+#EXTINF:-1,BD | MY TV HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77109
+#EXTINF:-1,BD | MUSIC FATAFATI
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77108
+#EXTINF:-1,BD | MOVIE BANGLA FHD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77107
+#EXTINF:-1,BD | MOHONA TV HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77106
+#EXTINF:-1,BD | MILLENNIUM TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77105
+#EXTINF:-1,BD | MAASRANGA TV HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77104
+#EXTINF:-1,BD | JAMUNA TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77103
+#EXTINF:-1,BD | INDEPENDENT NEWS HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77102
+#EXTINF:-1,BD | GTV HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77101
+#EXTINF:-1,BD | Gazi TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77100
+#EXTINF:-1,BD | GAAN BANGLA-MUSIC HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77099
+#EXTINF:-1,BD | ETV NEWS
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77098
+#EXTINF:-1,BD | EKATTOR TV HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/77097
+#EXTINF:-1,BD | DURONTO TV
+http://p4.giffy.be:8080/xueMAyY4/ZST
