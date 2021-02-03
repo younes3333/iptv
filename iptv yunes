@@ -1,55 +1,31 @@
 #EXTM3U
-#EXTINF:0,CANAL+ Sport HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/73
-#EXTINF:0,CANAL+ Sport 2 HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/108
-#EXTINF:0,CANAL+ SPORT 3 HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/154647
-#EXTINF:0,CANAL+ SPORT 4 HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/154648
-#EXTINF:0,Eleven Sports 1 HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/111
-#EXTINF:0,Eleven Sports 2 HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/112
-#EXTINF:0,Eleven Sports 3 HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/113
-#EXTINF:0,Eleven Sports 4 HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/74
-#EXTINF:0,Eurosport HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/63
-#EXTINF:0,Eurosport 2 HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/18
-#EXTINF:0,Extreme Sports HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/19
-#EXTINF:0,Fightbox HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/64
-#EXTINF:0,Fightklub HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/114
-#EXTINF:0,Golf Channel HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/65
-#EXTINF:0,nSport+ HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/96
-#EXTINF:0,Polsat Sport Extra HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/59
-#EXTINF:0,Polsat Sport Fight HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/21
-#EXTINF:0,Polsat Sport HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/10
-#EXTINF:0,Polsat Sport News HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/22
-#EXTINF:0,Sportklub HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/43
-#EXTINF:0,TVP Sport HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/44
-#EXTINF:0,Polsat Sport Premium PPV 1 HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/115
-#EXTINF:0,Polsat Sport Premium PPV 2 HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/116
-#EXTINF:0,Polsat Sport Premium PPV 3 HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/117
-#EXTINF:0,Polsat Sport Premium PPV 4 HDv
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/118
-#EXTINF:0,Polsat Sport Premium PPV 5 HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/119
-#EXTINF:0,Polsat Sport Premium PPV 6 HD
-http://m.tradok.pro:4444/JerzyP/sjxgNUHH/120
+#EXTINF:0,BEIN SPORTS 1 HD
+http://sarhantv.xyz:25461/wwee/wwee/1
+#EXTINF:0,BEIN SPORTS 2 HD
+http://sarhantv.xyz:25461/wwee/wwee/2
+#EXTINF:0,BEIN SPORTS 3 HD
+http://sarhantv.xyz:25461/wwee/wwee/3
+#EXTINF:0,BEIN SPORTS 4 HD
+http://sarhantv.xyz:25461/wwee/wwee/4
+#EXTINF:0,BEIN SPORTS 5 HD
+http://sarhantv.xyz:25461/wwee/wwee/5
+#EXTINF:0,BEIN SPORTS 6 HD
+http://sarhantv.xyz:25461/wwee/wwee/6
+#EXTINF:0,BEIN SPORTS 7 HD
+http://sarhantv.xyz:25461/wwee/wwee/7
+#EXTINF:0,BEIN SPORTS 8 HD
+http://sarhantv.xyz:25461/wwee/wwee/8
+#EXTINF:0,BEIN SPORTS 9 HD
+http://sarhantv.xyz:25461/wwee/wwee/9
+#EXTINF:0,BEIN SPORTS 10 HD
+http://sarhantv.xyz:25461/wwee/wwee/10
+#EXTINF:0,BEIN SPORTS 11 HD
+http://sarhantv.xyz:25461/wwee/wwee/11
+#EXTINF:0,BEIN SPORTS 12 HD
+http://sarhantv.xyz:25461/wwee/wwee/12
+#EXTINF:0,beIN Sports 1 Fr
+http://sarhantv.xyz:25461/wwee/wwee/31
+#EXTINF:0,beIN Sport 2 FR
+http://sarhantv.xyz:25461/wwee/wwee/32
+#EXTINF:0,beIN Sport 3 FR
+http://sarhantv.xyz:25461/wwee/wwee/33
