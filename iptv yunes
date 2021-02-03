@@ -1,60 +1,405 @@
 #EXTM3U
-#EXTINF:-1,beIN SPORTS 1 Low
-http://showmetv.me:80/showmelive9974/5474441/44555
-#EXTINF:-1,beIN SPORTS 2 Low
-http://showmetv.me:80/showmelive9974/5474441/44556
-#EXTINF:-1,beIN SPORTS 3 Low 
-http://showmetv.me:80/showmelive9974/5474441/44557
-#EXTINF:-1,beIN SPORTS 4 Low
-http://showmetv.me:80/showmelive9974/5474441/44558
-#EXTINF:-1,beIN SPORTS 5 Low
-http://showmetv.me:80/showmelive9974/5474441/44559
-#EXTINF:-1,beIN SPORTS 6 Low
-http://showmetv.me:80/showmelive9974/5474441/44560
-#EXTINF:-1,beIN SPORTS 7 Low
-http://showmetv.me:80/showmelive9974/5474441/44561
-#EXTINF:-1,beIN SPORTS 8 Low
-http://showmetv.me:80/showmelive9974/5474441/44562
-#EXTINF:-1,beIN SPORTS 9 Low 
-http://showmetv.me:80/showmelive9974/5474441/44563
-#EXTINF:-1,beIN SPORTS 10 Low 
-http://showmetv.me:80/showmelive9974/5474441/44564
-#EXTINF:-1,BeinSport 1SD
-http://showmetv.me:80/showmelive9974/5474441/18050
-#EXTINF:-1,BeinSport 2SD
-http://showmetv.me:80/showmelive9974/5474441/18049
-#EXTINF:-1,BeinSport 3SD
-http://showmetv.me:80/showmelive9974/5474441/18048
-#EXTINF:-1,BeinSport 4SD
-http://showmetv.me:80/showmelive9974/5474441/18047
-#EXTINF:-1,BeinSport 5SD
-http://showmetv.me:80/showmelive9974/5474441/18046
-#EXTINF:-1,BeinSport 6SD
-http://showmetv.me:80/showmelive9974/5474441/18045
-#EXTINF:-1,BeinSport 7SD
-http://showmetv.me:80/showmelive9974/5474441/18044
-#EXTINF:-1,BeinSport 8SD
-http://showmetv.me:80/showmelive9974/5474441/18043
-#EXTINF:-1,BeinSport 9SD
-http://showmetv.me:80/showmelive9974/5474441/18042
-#EXTINF:-1,BeinSport 10SD
-http://showmetv.me:80/showmelive9974/5474441/18041
-#EXTINF:-1,beIN SPORTS 1 HQ
-http://showmetv.me:80/showmelive9974/5474441/44565
-#EXTINF:-1,beIN SPORTS 2 HQ
-http://showmetv.me:80/showmelive9974/5474441/44566
-#EXTINF:-1,beIN SPORTS 3 HQ
-http://showmetv.me:80/showmelive9974/5474441/44567
-#EXTINF:-1,beIN SPORTS 4 HQ
-http://showmetv.me:80/showmelive9974/5474441/44568
-#EXTINF:-1,beIN SPORTS 5 HQ
-http://showmetv.me:80/showmelive9974/5474441/44569
-#EXTINF:-1,beIN SPORTS 6 HQ
-http://showmetv.me:80/showmelive9974/5474441/44570
-#EXTINF:-1,beIN SPORTS 7 HQ
-http://showmetv.me:80/showmelive9974/5474441/44571
-#EXTINF:-1,beIN SPORTS 8 HQ
-http://showmetv.me:80/showmelive9974/5474441/44572
-#EXTINF:-1,beIN SPORTS 9 HQ
-http://showmetv.me:80/showmelive9974/5474441/44573
-#EXTINF:-1,beIN SPORTS 10 HQ
+#EXTINF:-1,TVP 1 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/9
+#EXTINF:-1,TVP 2 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/11
+#EXTINF:-1,TVP 3
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/125
+#EXTINF:-1,TVP Polonia
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/183
+#EXTINF:-1,TV Trwam
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/199
+#EXTINF:-1,TVN HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/2
+#EXTINF:-1,TVN 7 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/8
+#EXTINF:-1,TVN Fabula HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/5
+#EXTINF:-1,TVN STYLE HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/3
+#EXTINF:-1,TVN Turbo HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/4
+#EXTINF:-1,TTV HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/6
+#EXTINF:-1,Polsat HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/13
+#EXTINF:-1,Polsat 2 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/99
+#EXTINF:-1,Super Polsat HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/104
+#EXTINF:-1,Polonia 1
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/160
+#EXTINF:-1,Tele 5
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/161
+#EXTINF:-1,TV 4 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/105
+#EXTINF:-1,TV Puls HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/85
+#EXTINF:-1,TV Puls 2
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/130
+#EXTINF:-1,TVP HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/27
+#EXTINF:-1,TVP Kultura
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/154
+#EXTINF:-1,TVP Rozrywka
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/178
+#EXTINF:-1,Active Family
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/134
+#EXTINF:-1,Domo+ HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/110
+#EXTINF:-1,E! HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/62
+#EXTINF:-1,Food Network HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/80
+#EXTINF:-1,HGTV HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/30
+#EXTINF:-1,Kuchnia+ HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/49
+#EXTINF:-1,Motowizja HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/50
+#EXTINF:-1,Red Carpet TV HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/157418
+#EXTINF:-1,Polsat Cafe HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/102
+#EXTINF:-1,Polsat Play HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/103
+#EXTINF:-1,Polsat Rodzina HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/78
+#EXTINF:-1,Polsat Games HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/88
+#EXTINF:-1,Polsat Doku HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/58
+#EXTINF:-1,CI Polsat HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/98
+#EXTINF:-1,ID HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/95
+#EXTINF:-1,StudioMed TV HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/157404
+#EXTINF:-1,Stopklatka TV
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/176
+#EXTINF:-1,Superstacja
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/145
+#EXTINF:-1,TV 6 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/90
+#EXTINF:-1,TVR
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/157406
+#EXTINF:-1,ATM Rozrywka TV
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/138
+#EXTINF:-1,CANAL+ HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/71
+#EXTINF:-1,CANAL+ +1 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/109
+#EXTINF:-1,CANAL+ Film HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/47
+#EXTINF:-1,CANAL+ Family HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/46
+#EXTINF:-1,CANAL+ Seriale HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/48
+#EXTINF:-1,HBO HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/12
+#EXTINF:-1,HBO 2 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/41
+#EXTINF:-1,HBO 3 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/42
+#EXTINF:-1,Cinemax HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/25
+#EXTINF:-1,Cinemax 2 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/54
+#EXTINF:-1,Comedy Central HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/33
+#EXTINF:-1,Comedy Central Family HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/32
+#EXTINF:-1,AMC HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/91
+#EXTINF:-1,AXN HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/53
+#EXTINF:-1,AXN Spin HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/82
+#EXTINF:-1,AXN Black
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/139
+#EXTINF:-1,AXN White
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/140
+#EXTINF:-1,SciFi HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/68
+#EXTINF:-1,Filmbox Action
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/148
+#EXTINF:-1,Filmbox Arthouse
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/170
+#EXTINF:-1,Filmbox Extra HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/149
+#EXTINF:-1,Filmbox Family
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/150
+#EXTINF:-1,Filmbox Premium HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/84
+#EXTINF:-1,FOX HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/56
+#EXTINF:-1,FOX Comedy HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/55
+#EXTINF:-1,13 Ulica HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/61
+#EXTINF:-1,Ale Kino+ HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/45
+#EXTINF:-1,CBS Europa HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/16
+#EXTINF:-1,Epic Drama HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/87
+#EXTINF:-1,Kino TV HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/151
+#EXTINF:-1,Kino Polska HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/189
+#EXTINF:-1,Novela TV
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/159
+#EXTINF:-1,Paramount Channel HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/37
+#EXTINF:-1,Romance TV HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/97
+#EXTINF:-1,Sundance Channel HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/69
+#EXTINF:-1,Polsat Film HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/100
+#EXTINF:-1,Polsat Seriale HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/152202
+#EXTINF:-1,TVP Seriale
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/155
+#EXTINF:-1,TNT HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/24
+#EXTINF:-1,TLC HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/70
+#EXTINF:-1,VOD 205
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/158271
+#EXTINF:-1,VOD 208
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/158272
+#EXTINF:-1,VOD 207
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/158273
+#EXTINF:-1,VOD 206
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/158274
+#EXTINF:-1,CANAL+ NOW HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/72
+#EXTINF:-1,CANAL+ Sport HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/73
+#EXTINF:-1,CANAL+ Sport 2 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/108
+#EXTINF:-1,CANAL+ SPORT 3 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/154647
+#EXTINF:-1,CANAL+ SPORT 4 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/154648
+#EXTINF:-1,Eleven Sports 1 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/111
+#EXTINF:-1,Eleven Sports 2 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/112
+#EXTINF:-1,Eleven Sports 3 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/113
+#EXTINF:-1,Eleven Sports 4 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/74
+#EXTINF:-1,Eurosport HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/63
+#EXTINF:-1,Eurosport 2 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/18
+#EXTINF:-1,Extreme Sports HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/19
+#EXTINF:-1,Fightbox HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/64
+#EXTINF:-1,Fightklub HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/114
+#EXTINF:-1,Golf Channel HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/65
+#EXTINF:-1,nSport+ HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/96
+#EXTINF:-1,Polsat Sport Extra HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/59
+#EXTINF:-1,Polsat Sport Fight HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/21
+#EXTINF:-1,Polsat Sport HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/10
+#EXTINF:-1,Polsat Sport News HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/22
+#EXTINF:-1,Sportklub HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/43
+#EXTINF:-1,TVP Sport HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/44
+#EXTINF:-1,Polsat Sport Premium PPV 1 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/115
+#EXTINF:-1,Polsat Sport Premium PPV 2 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/116
+#EXTINF:-1,Polsat Sport Premium PPV 3 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/117
+#EXTINF:-1,Polsat Sport Premium PPV 4 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/118
+#EXTINF:-1,Polsat Sport Premium PPV 5 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/119
+#EXTINF:-1,Polsat Sport Premium PPV 6 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/120
+#EXTINF:-1,KSW 56
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/158309
+#EXTINF:-1,PPV CHANNEL 1
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/37445
+#EXTINF:-1,EVENT 01
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/58684
+#EXTINF:-1,Baby TV
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/182
+#EXTINF:-1,Boomerang HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/86
+#EXTINF:-1,Cartoon Network HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/15
+#EXTINF:-1,Disney Channel HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/77
+#EXTINF:-1,Disney Junior
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/122
+#EXTINF:-1,Disney XD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/141
+#EXTINF:-1,MiniMini+ HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/75
+#EXTINF:-1,Nick Junior
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/132
+#EXTINF:-1,Nickelodeon
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/14
+#EXTINF:-1,Nicktoons HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/36
+#EXTINF:-1,Polsat Jim Jam
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/143
+#EXTINF:-1,teleTOON+ HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/52
+#EXTINF:-1,TVP ABC
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/152
+#EXTINF:-1,BBC CBeebies
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/58723
+#EXTINF:-1,National Geographic HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/76
+#EXTINF:-1,National Geographic People HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/20
+#EXTINF:-1,National Geographic Wild HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/26
+#EXTINF:-1,Animal Planet HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/38
+#EXTINF:-1,Planete+ HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/51
+#EXTINF:-1,CANAL+ DOKUMENT HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/92
+#EXTINF:-1,Discovery HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/93
+#EXTINF:-1,Discovery Life HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/83
+#EXTINF:-1,Discovery Science HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/17
+#EXTINF:-1,DTX HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/94
+#EXTINF:-1,Da Vinci Learning
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/167
+#EXTINF:-1,Polsat Viasat Explore HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/79
+#EXTINF:-1,Polsat Viasat Nature HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/23
+#EXTINF:-1,Adventure HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/29
+#EXTINF:-1,BBC Brit HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/106
+#EXTINF:-1,BBC Earth HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/39
+#EXTINF:-1,BBC First HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/40
+#EXTINF:-1,BBC Lifestyle HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/107
+#EXTINF:-1,CBS Reality HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/146
+#EXTINF:-1,Lifetime HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/67
+#EXTINF:-1,Travel Channel HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/81
+#EXTINF:-1,TVP Historia
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/153
+#EXTINF:-1,Polsat Viasat History HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/60
+#EXTINF:-1,History HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/57
+#EXTINF:-1,H2 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/66
+#EXTINF:-1,Discovery Historia
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/135
+#EXTINF:-1,4Fun Dance
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/163
+#EXTINF:-1,4Fun Gold Hits
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/164
+#EXTINF:-1,4Fun.TV
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/165
+#EXTINF:-1,Eska Rock TV
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/147
+#EXTINF:-1,Eska TV
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/168
+#EXTINF:-1,Eska TV Extra
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/169
+#EXTINF:-1,Junior Music
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/157417
+#EXTINF:-1,Kino Polska Muzyka
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/136
+#EXTINF:-1,MTV Live HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/34
+#EXTINF:-1,MTV Music Polska
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/131
+#EXTINF:-1,MTV Polska HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/35
+#EXTINF:-1,MTV Rocks
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/142
+#EXTINF:-1,MEZZO
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/157416
+#EXTINF:-1,Nuta TV
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/128
+#EXTINF:-1,Polo TV HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/174
+#EXTINF:-1,Polsat Music HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/89
+#EXTINF:-1,Stars.TV
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/175
+#EXTINF:-1,TO! TV
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/129
+#EXTINF:-1,VH-1
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/133
+#EXTINF:-1,VOX Music TV
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/157
+#EXTINF:-1,TVN 24 BiS HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/31
+#EXTINF:-1,TVN 24 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/7
+#EXTINF:-1,BIZNES24 HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/158195
+#EXTINF:-1,Polsat News HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/101
+#EXTINF:-1,Polsat News 2
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/181
+#EXTINF:-1,TVP Info HD
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/28
+#EXTINF:-1,wPolsce.pl
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/179
+#EXTINF:-1,TV Republika
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/177
+#EXTINF:-1,Fokus TV
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/171
+#EXTINF:-1,Metro
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/172
+#EXTINF:-1,Nowa TV
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/173
+#EXTINF:-1,NTL
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/127
+#EXTINF:-1,TVS
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/156
+#EXTINF:-1,Water Planet
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/162
+#EXTINF:-1,WP
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/158
+#EXTINF:-1,Zoom TV
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/180
+#EXTINF:-1,Zlote Przeboje
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/198
+#EXTINF:-1,TOK FM
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/197
+#EXTINF:-1,Radio ZET
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/196
+#EXTINF:-1,NC+ RADIO
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/191
+#EXTINF:-1,MUZO FM
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/194
+#EXTINF:-1,Meloradio
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/192
+#EXTINF:-1,JASNA GORA
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/195
+#EXTINF:-1,Chillizet
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/193
