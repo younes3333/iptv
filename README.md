@@ -1,4 +1,3 @@
-# iptv
 #EXTINF:-1,MOVIESMART GOLD
 http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54572
 #EXTINF:-1,24 KITCHEN FHD
